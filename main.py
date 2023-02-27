@@ -1,2 +1,4 @@
-print("Salam Sama Xanum")
-input()
+class Student:
+    print("Hi")
+
+first_student = Student()
